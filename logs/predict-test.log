@@ -1,0 +1,3 @@
+unique_id,timestamp,country,y_pred,y_proba,target_date,model_version,runtime
+4cc8ea2a-b4c9-4b74-8555-c02e2aae889d,1616935005.9764528,all,[0],"[0.6, 0.4]",2018-01-05,0.1,00:00:02
+88fbdedd-3cd3-439b-bb80-3d505f8a6f74,1616935005.9767954,all,[0],"[0.6, 0.4]",2018-01-05,0.1,00:00:02
